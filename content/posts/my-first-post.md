@@ -1,0 +1,10 @@
+---
+title: "My First Post"
+date: 2022-11-20T09:03:20-08:00
+draft: true
+---
+##Welcome to my chess games database.
+
+This will contain **my** favourite games, along with those I find  *instructional*.
+
+Visit the [Hugo](https://gohugo.io) website!
